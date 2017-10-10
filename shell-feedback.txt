@@ -1,8 +1,14 @@
 DUUUUUUUUUUUUUUUUUUUUUUUUUUDEDEDEDEUDUEDUEDUEDUEUDEUDEUDEU
 
+banana gun
+
+horseriding is fun
+dont you 
+think so
+
 neg: A bit wrapped up in the end.
-neg: Maybe need more structure?
-neg: More exercises to get a hand of it (but requires more time).
+keg: Maybe need more structure?
+keg: More exercises to get a hand of it (but requires more time).
 pos: simple stuff - easy to understand.
 pos: I felt I was able to follow all the terminal stuff.
 neg: Would have been good to find info on other commands/things one can do.
